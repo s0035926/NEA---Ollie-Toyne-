@@ -1,0 +1,63 @@
+
+.Start{
+  background-color: black;
+  color: white;
+  border: none;
+  height:150px;
+  width: 300px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 50px;
+  font-weight:bold;
+  margin-top:50px;
+  margin-right:3000px;
+  margin-left:250px;
+}
+.how-to-play{
+  background-color: black;
+  color: white;
+  border: none;
+  height:150px;
+  width: 300px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size:50px;
+  font-weight:bold;
+  margin-top:50px;
+  margin-right:3000px;
+  margin-left:250px;
+}
+
+.options{
+  background-color: black;
+  color: white;
+  border: none;
+  height:150px;
+  width: 300px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 50px;
+  font-weight:bold;
+  margin-top:50px;
+  margin-left:249px;
+}
+
+.Start:hover{
+ background-color:#1c1c1c
+}
+.how-to-play:hover{
+ background-color:#1c1c1c
+}
+.options:hover{
+  background-color:#1c1c1c  
+}
+
+.Start:active{
+  opacity:0.8;
+}
+.how-to-play:active{
+  opacity:0.8;
+}
+.options:active{
+  opacity:0.8;
+}
